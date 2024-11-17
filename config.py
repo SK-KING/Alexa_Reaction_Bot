@@ -7,8 +7,7 @@ class Config:
     FSUB_ID = int(env.get("FSUB_ID", ""))  #Add Your FSub Channel Id -100xxxxxxxxx
     FSUB = bool(env.get("FSUB", True)) #Keep True If U Want Force Subscribe         
     SB_PIC = env.get("SB_PIC", "https://i.ibb.co/c6vkVBP/photo-2024-11-15-12-13-41-7437478159336865812.jpg") # Add Link For Start Cmd Picture 
-    BOT_USERNAME = env.get("BOT_USERNAME", "Sb_reactionbot") #Add Bot Username Without @
-    IMGBB_API_KEY = env.get("IMGBB_API_KEY", "") 
+    BOT_USERNAME = env.get("BOT_USERNAME", "Sb_reactionbot") # Add Bot Username Without @
     EMOJIS = [
         "👍", "👎", "❤", "🔥", 
         "🥰", "👏", "😁", "🤔",
