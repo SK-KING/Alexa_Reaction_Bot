@@ -54,30 +54,30 @@ help - To get help how to use bot
  <h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3>
-<b><details><summary>Tap On Me For deployment method</summary>
+<b><summary>Tap On Me For deployment method</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/USERNAME/REPO">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Sanchit0102/Auto_Reaction_Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=USERNAME/REPO&branch=main&name=main">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=Sanchit0102/Auto_Reaction_Bot&branch=main&name=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/USERNAME/REPO"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Sanchit0102/Auto_Reaction_Bot"">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/USERNAME/REPO">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Sanchit0102/Auto_Reaction_Bot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p> 
 <h3 align="center">
