@@ -34,6 +34,7 @@
 * `FSUB` - Make True if you want force subscribe 
 * `FSUB_ID` - fsub channel id get from telegram 🙂
 * `SB_PIC` - put the link for start pic
+* `IMGBB_API_KEY` - put your imgbb api key get from imgbb.com
 </details>
 </b>
 
