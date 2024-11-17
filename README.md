@@ -50,11 +50,10 @@ help - To get help how to use bot
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
- <h3>
+<h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3>
-<b><summary>Tap On Me For deployment method</summary>
+<b><details><summary>Tap On Me For deployment method</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
