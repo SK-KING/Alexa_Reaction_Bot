@@ -45,6 +45,8 @@
 ```
 start - Start The Bot
 help - To get help how to use bot
+upload - To upload image on envs.sh
+imgbb - To upload image on imgbb
 ```
 </details>
 
