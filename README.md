@@ -34,7 +34,6 @@
 * `FSUB` - Make True if you want force subscribe 
 * `FSUB_ID` - fsub channel id get from telegram 🙂
 * `SB_PIC` - put the link for start pic
-* `IMGBB_API_KEY` - put your imgbb api key get from [imgbb.com](https://imgbb.com)
 </details>
 </b>
 
@@ -46,8 +45,6 @@
 ```
 start - Start The Bot
 help - To get help how to use bot
-upload - To upload image on envs.sh
-imgbb - To upload image on imgbb
 ```
 </details>
 
