@@ -27,8 +27,8 @@ async def start_command(_, msg: Message):
                     InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'https://telegram.me/{tg.BOT_USERNAME}?startgroup=botstart')
                 ],
                 [
-                    InlineKeyboardButton('• ᴜᴩᴅᴀᴛᴇꜱ •', url='https://t.me/SB_Botz_Update'),
-                    InlineKeyboardButton('• ꜱᴜᴩᴩᴏʀᴛ •', url='https://t.me/+Vegv963Nf2kzYzBl')
+                    InlineKeyboardButton('• ᴜᴩᴅᴀᴛᴇꜱ •', url='https://t.me/SAKSHI_UPDATES'),
+                    InlineKeyboardButton('• ꜱᴜᴩᴩᴏʀᴛ •', url='https://t.me/+ZxOh5cao8UUyOWFl')
                 ],
                 [
                     InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ⇆', url=f'https://telegram.me/{tg.BOT_USERNAME}?startchannel=botstart')
@@ -59,8 +59,8 @@ async def send_emojis(_, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👨‍💻 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/SB_Botz_Update'),
-                    InlineKeyboardButton('💥 ꜱᴜᴩᴩᴏʀᴛ', url='https://t.me/+Vegv963Nf2kzYzBl')
+                    InlineKeyboardButton('👨‍💻 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/SAKSHI_UPDATES'),
+                    InlineKeyboardButton('💥 ꜱᴜᴩᴩᴏʀᴛ', url='https://t.me/+ZxOh5cao8UUyOWFl')
                 ],[
                     InlineKeyboardButton('🚫 Cʟᴏꜱᴇ', callback_data="close")
                 ]
