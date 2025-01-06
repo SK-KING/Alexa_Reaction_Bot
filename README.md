@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
- <b><a href="https://t.me/sb_reactionbot" target="/blank">Auto Reaction Bot</a>
+ <b><a href="https://t.me/SAKSHI_UPDATES" target="/blank">Auto Reaction Bot</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -18,7 +18,7 @@
 - work in both channels & groups
 - Fully modified repo
 - Deploy To Koyeb + Heroku + Railway.
-- [Developer support](https://t.me/+Vegv963Nf2kzYzBl) 24x7
+- [Developer support](https://t.me/+ZxOh5cao8UUyOWFl) 24x7
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,8 +27,8 @@
 
 <details><summary>Tap On Me For Environment Variable</summary>
 
-* `API_ID` - Get From [Here](https://telegram.me/sb_botz_update)
-* `API_HASH` - Get From [Here](https://telegram.me/sb_botz_update)
+* `API_ID` - Get From [Here](https://t.me/+ZxOh5cao8UUyOWFl)
+* `API_HASH` - Get From [Here](https://t.me/+ZxOh5cao8UUyOWFl)
 * `BOT_TOKEN` - Get From [BotFather](https://telegram.me/BotFather)
 * `BOT_USERNAME` - Username of your Telegram bot without '@'
 * `FSUB` - Make True if you want force subscribe 
@@ -99,16 +99,16 @@ python3 main.py
 
 <details><summary>Tap On Me For Credit</summary>
 
-💝 Modifications Credit Goes To [ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️](https://t.me/THE_DS_OFFICIAL)
+💝 Modifications Credit Goes To [⎯᪵ ꯭🫧➺ ꯭𝅥‌꯭𝆬‌ ⃪🍃⃟꯭❤️‍🩹𝗔ℓєχα🜲꯭ ꯭꯭𝅃꯭𝆺꯭𝅥⎯⟶‌‌🔋⚡️](https://t.me/ll_Alexa_ll)
 
-💘 Base Repo Credit [TheCaduceus]()
+💘 Base Repo Credit [♡ Ꮎσωηєя🔥♡](https://t.me/SAKSHI_UPDATES)
 
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💕 CONTACT DEVELOPER
 
-- [Raj Verma](https://telegram.me/Your_rjv)
+- [⎯᪵ ꯭🫧➺ ꯭𝅥‌꯭𝆬‌ ⃪🍃⃟꯭❤️‍🩹𝗔ℓєχα Ꮼρ∂αтє꯭꯭𝅃꯭𝆺꯭𝅥⎯⟶‌‌ 🚩](https://t.me/+ZxOh5cao8UUyOWFl)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
