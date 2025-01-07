@@ -11,7 +11,7 @@ import (
 )
 
 // Bot token
-const token = "YOUR_BOT_TOKEN"
+const token = "7786892677:AAE-gcvv0jF1AnSFZstKFyrO_WazQNro9lE"
 
 // Image names to links mapping
 var images = map[string]string{
