@@ -1,0 +1,61 @@
+
+package main
+
+import (
+ "fmt"
+ "log"
+ "regexp"
+ "strings"
+
+ "github.com/go-telegram-bot-api/telegram-bot-api"
+)
+
+// Bot token
+const token = "YOUR_BOT_TOKEN"
+
+// Image names to links mapping
+var images = map[string]string{
+ "cat": "https://example.com/cat.jpg",
+ "dog": "https://example.com/dog.jpg",
+ "bird": "https://example.com/bird.jpg",
+}
+
+func main() {
+ // Create a new Telegram bot API client
+ bot, err := tgbotapi.NewBotAPI(token)
+ if err != nil {
+  log.Fatal(err)
+ }
+
+ // Start the bot
+ log.Println("Bot is running...")
+ u := tgbotapi.NewUpdate(0)
+ u.Timeout = 60
+ updates, err := bot.GetUpdatesChan(u)
+ if err != nil {
+  log.Fatal(err)
+ }
+
+ for update := range updates {
+  if update.Message == nil {
+   continue
+  }
+
+  // Extract image name from message text
+  imagePattern := regexp.MustCompile(\bimage:\s?(\w+)\b)
+  match := imagePattern.FindStringSubmatch(update.Message.Text)
+  if len(match) < 2 {
+   continue
+  }
+  imageName := match[1]
+
+  // Check if image name is in the mapping
+  if link, ok := images[imageName]; ok {
+   msg := tgbotapi.NewMessage(update.Message.Chat.ID, link)
+   bot.Send(msg)
+  } else {
+   msg := tgbotapi.NewMessage(update.Message.Chat.ID, fmt.Sprintf("Image '%s' not found.", imageName))
+   bot.Send(msg)
+  }
+ }
+} 
